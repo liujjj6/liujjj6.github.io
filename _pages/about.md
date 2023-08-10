@@ -31,5 +31,5 @@ My primary research interests include **federated learning**, **dataset distilla
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.06 - 2023.08 (now)*, Master, Group of Networked Sensing and Control, Zhejiang University, Hangzhou.
+- *2023.06 - 2023.08 (now)*, Postgraduate, Group of Networked Sensing and Control, Zhejiang University, Hangzhou.
 - *2019.09 - 2023.06*, Undergraduate, China University of Mining and Technology , Xuzhou.
