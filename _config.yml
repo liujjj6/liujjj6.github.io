@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guangyi Liu's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Zhejiang University"
 repository               : "lgy0404/lgy0404.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guangyi Liu"
   avatar           : "images/刘广义.png"
-  bio              : "Zhejiang University"
+  bio              : "postgraduate student"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
