@@ -25,6 +25,7 @@ My primary research interests include **federated learning**, **dataset distilla
 
 - *2023.05*: &nbsp;I was selected as [the "Campus Person of the Year" of the 17th "Youth CUMT"](https://mp.weixin.qq.com/s/67to047XQPHGbSgDeQd3RA). 
 - *2022.11*: &nbsp; My personal story was reported by [the official WeChat account of CUMT](https://mp.weixin.qq.com/s?__biz=MzI1NDU4MTAzOA==&mid=2247612598&idx=1&sn=24bc3c61207020aa627edc09305c9895&chksm=e9c078f7deb7f1e170dbb56e5fb7086acde129dab29121a181c9b90ed8bedae934cb6e871902&scene=27) and [China Youth Network](http://news.cyol.com/gb/articles/2022-11/10/content_XOyq5CpYg.html).
+- *2022.08: &nbsp; I gave a speech at the 2022 undergraduate opening ceremony of the [SIEE, CUMT.](https://siee.cumt.edu.cn/)
 
 # 🎖 Honors and Awards
 
@@ -38,4 +39,4 @@ My primary research interests include **federated learning**, **dataset distilla
 # 👨‍💼  Internships
 
 - *2022.07 - 2023.03*, [Communist Youth League CUMT Committee](https://youth.cumt.edu.cn/) , Part-time Deputy Secretary (Student), Xuzhou.
-- *2022.01 - 2023.01*, Student Workstation of CPC in CUMT, Chairman, Xuzhou.
+- *2022.01 - 2023.01*, [Student Workstation of CPC in CUMT](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%85%9A%E5%91%98%E5%B7%A5%E4%BD%9C%E7%AB%99%E6%80%BB%E7%AB%99/4843975?fr=ge_ala), Chairman, Xuzhou.

@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guangyi Liu's Homepage"
+title                    : "Guangyi Liu(刘广义)"
 description              : "Zhejiang University"
 repository               : "lgy0404/lgy0404.github.io"
 google_scholar_stats_use_cdn : false  #true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guangyi Liu"
+  name             : "Guangyi Liu(刘广义)"
   avatar           : "images/刘广义.png"
   bio              : "Postgraduate"
   location         : "Hangzhou, China"
