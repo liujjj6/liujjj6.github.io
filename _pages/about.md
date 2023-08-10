@@ -21,14 +21,15 @@ I am **Guangyi Liu (刘广义)**, a postgraduate student at the [NeSC Group](htt
 
 My primary research interests include **federated learning**, **dataset distillation** and their intersections. If you have any academic problems or seeking any form of cooperation, please feel free to email me at guangyiliu@zju.edu.cn 😃
 
-
 # 🔥 News
+
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*: &nbsp; My personal story was reported by [the official WeChat account of CUMT](https://mp.weixin.qq.com/s?__biz=MzI1NDU4MTAzOA==&mid=2247612598&idx=1&sn=24bc3c61207020aa627edc09305c9895&chksm=e9c078f7deb7f1e170dbb56e5fb7086acde129dab29121a181c9b90ed8bedae934cb6e871902&scene=27) and [China Youth Network](http://news.cyol.com/gb/articles/2022-11/10/content_XOyq5CpYg.html).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2021.12* National Scholarship(Top 1%)
+- *2020.12* National Scholarship(Top 1%)
 
 # 📖 Educations
 - *2023.06 - 2023.08 (now)*, Postgraduate, Group of Networked Sensing and Control, Zhejiang University, Hangzhou.
