@@ -29,8 +29,8 @@ My primary research interests include **federated learning**, **dataset distilla
 
 # 🎖 Honors and Awards
 
-- *2021.12* National Scholarship(Top 1%)
-- *2020.12* National Scholarship(Top 1%)
+- *2021.12:* National Scholarship(Top 1%)
+- *2020.12:* National Scholarship(Top 1%)
 
 # 📖 Educations
 - *2023.06 - 2023.08 (now)*, Postgraduate, Group of Networked Sensing and Control, Zhejiang University, Hangzhou.
@@ -38,5 +38,6 @@ My primary research interests include **federated learning**, **dataset distilla
 
 # 👨‍💼  Internships
 
+- *2023.07 - 2023.08 (now)*, [imotorlinx](https://www.imotorlinx.com/), Algorithm engineer, Hangzhou.
 - *2022.07 - 2023.03*, [Communist Youth League CUMT Committee](https://youth.cumt.edu.cn/) , Part-time Deputy Secretary (Student), Xuzhou.
 - *2022.01 - 2023.01*, [Student Workstation of CPC in CUMT](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%85%9A%E5%91%98%E5%B7%A5%E4%BD%9C%E7%AB%99%E6%80%BB%E7%AB%99/4843975?fr=ge_ala), Chairman, Xuzhou.
