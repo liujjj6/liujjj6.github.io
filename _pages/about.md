@@ -55,6 +55,7 @@ My primary research interests include **federated learning**, **dataset distilla
 
 # 🎖 Honors and Awards
 
+- *2022.09:* Xiaomi Special Scholarship*(10 students in the whole school)*
 - *2021.12:* National Scholarship*(Top 1%)*
 - *2020.12:* National Scholarship*(Top 1%)*
 
