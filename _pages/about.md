@@ -24,9 +24,10 @@ My primary research interests include **federated learning**, **dataset distilla
 # 🔥 News
 
 - *2023.06*: My undergraduate graduation project *Design of Reconfigurable Data Acquisition System for Distribution Network Equipmen* was rated as **an excellent graduation project** of CUMT with a defense score of 96.4/100.
-- *2023.05*: &nbsp;I was selected as [the "Campus Person of the Year" of the 17th "Youth CUMT"](https://mp.weixin.qq.com/s/67to047XQPHGbSgDeQd3RA). 
+- *2023.05*: &nbsp;I was selected as [the "Campus Person of the Year" of the 17th "Youth CUMT"](https://mp.weixin.qq.com/s/67to047XQPHGbSgDeQd3RA)*(8 students in the whole school)*. 
 - *2022.11*: &nbsp; My personal story was reported by [the official WeChat account of CUMT](https://mp.weixin.qq.com/s?__biz=MzI1NDU4MTAzOA==&mid=2247612598&idx=1&sn=24bc3c61207020aa627edc09305c9895&chksm=e9c078f7deb7f1e170dbb56e5fb7086acde129dab29121a181c9b90ed8bedae934cb6e871902&scene=27) and [China Youth Network](http://news.cyol.com/gb/articles/2022-11/10/content_XOyq5CpYg.html).
 - *2022.08*: &nbsp; I gave a speech at the 2022 undergraduate opening ceremony of the [SIEE, CUMT.](https://siee.cumt.edu.cn/)
+- *2022.085: &nbsp; I was awarded the 5th **CUMT "Youth May 4th Medal"** *(10 people in the whole school)*.
 
 # 📝 Publications
 
@@ -54,8 +55,8 @@ My primary research interests include **federated learning**, **dataset distilla
 
 # 🎖 Honors and Awards
 
-- *2021.12:* National Scholarship**(Top 1%)**
-- *2020.12:* National Scholarship**(Top 1%)**
+- *2021.12:* National Scholarship*(Top 1%)*
+- *2020.12:* National Scholarship*(Top 1%)*
 
 # 📖 Educations
 - *2023.06 - 2023.08 (now)*, Postgraduate, Group of Networked Sensing and Control, Zhejiang University, Hangzhou.
