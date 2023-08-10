@@ -9,7 +9,7 @@
 title                    : "Guangyi Liu's Homepage"
 description              : "Zhejiang University"
 repository               : "lgy0404/lgy0404.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false  #true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
