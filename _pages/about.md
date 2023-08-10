@@ -60,9 +60,7 @@ My primary research interests include **federated learning**, **dataset distilla
 - *2023.06 - 2023.08 (now)*, Postgraduate, Group of Networked Sensing and Control, Zhejiang University, Hangzhou.
 - *2019.09 - 2023.06*, Undergraduate, China University of Mining and Technology , Xuzhou.
 
-# 👨‍💼  Internships
-
-# 💻 Internships
+# 👨‍💼 Internships
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
