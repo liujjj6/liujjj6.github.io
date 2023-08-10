@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am **Guangyi Liu (刘广义)**, a postgraduate student at the [NeSC Group](http://nesc.zju.edu.cn/#/), [浙江大学 (Zhejiang University)](https://www.zju.edu.cn/), advised by [Wenchao Meng](https://person.zju.edu.cn/wmeng).
 
 My primary research interests include federated learning, dataset distillation and their intersections. If you have any academic problems or seeking any form of cooperation, please feel free to email me at guangyiliu@zju.edu.cn 😃
