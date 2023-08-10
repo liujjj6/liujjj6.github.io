@@ -31,24 +31,25 @@ My primary research interests include **federated learning**, **dataset distilla
 
 ## ⚙️Patents
 
-- A mine personnel violation action recognition system based on structural federated learning (**invention patent**, patent number: 202210393664.3, second student work, substantive review)
+- A mine personnel violation action recognition system based on structural federated learning (**invention patent**, patent number: 202210393664.3, **second student work**, substantive review)
 - A method for identifying illegal actions of mine personnel based on structural federated learning (**invention patent**, patent number: 202210393676.6, three works by students, substantive review)
-- A fast self-constructed behavior pattern recognition system (**invention patent**, patent number: 202210319875.2, second student work, substantive review)
-- A behavior alarm system for miners picking ore trucks (**utility model**, patent number: 202220235935.8, ranked first, authorized)
-- An alarm system for miners’ illegal crossing of the belt (**utility model**, patent number: 202220235933.9, ranking first, under review)
-- An underground multifunctional safety inspection system (**utility model**, patent number: 202220235933.8, ranking first, under review)
+- A fast self-constructed behavior pattern recognition system (**invention patent**, patent number: 202210319875.2, **second student work**, substantive review)
+- A behavior alarm system for miners picking ore trucks (**utility model**, patent number: 202220235935.8, **ranked first**, authorized)
+- An alarm system for miners’ illegal crossing of the belt (**utility model**, patent number: 202220235933.9, **ranking first**, under review)
+- An underground multifunctional safety inspection system (**utility model**, patent number: 202220235933.8, **ranking first**, under review)
 - A multi-dimensional adjustable miner violation monitoring device (**utility model**, patent number: 202220635933.4, ranked second, pending review)
 - A Vehicle Trajectory Prediction Method Combining Checkpoint Importance and Attention Mechanism (**invention patent**, patent number: 202210314126.0, three student works, substantive review)
+- [A traffic checkpoint importance sorting method based on embedded word vectors and PageRank algorithm](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RGd-cziUKthiG58Ca_oSsoZVe4tIbrMm-EK3oM6ybVzS&uniplatform=NZKPT) (**invention patent**, patent number: 202211548955.1, four works by students, substantive review)
 
 ## 💻Software copyright
 
-- Human behavior modal feature extraction software (registration number: 2022SR0574542, ranking first)
-2. Human behavior model data preprocessing software (registration number: 2022SR0574351, ranked first)
-3. Human behavior modal algorithm analysis platform based on random configuration network (registration number: 2022SR0574275, ranking second)
-4. Fast human behavior pattern recognition software based on incremental learning (registration number: 2022SR0574257, ranked second)
-5. Miner violation alarm system based on skeleton information (registration number: 2022SR0574278, ranking first)
-6. Video-based management system for mining personnel violations (registration number: 2022SR0574274, ranking first)
-7. Human skeleton feature extraction software based on OpenPose (registration number: 2022SR0574113, ranked second)
+- Human behavior modal feature extraction software (registration number: 2022SR0574542, **ranking first**)
+- Human behavior model data preprocessing software (registration number: 2022SR0574351, **ranked first**)
+- Human behavior modal algorithm analysis platform based on random configuration network (registration number: 2022SR0574275, **ranking second**)
+- Fast human behavior pattern recognition software based on incremental learning (registration number: 2022SR0574257, **ranked second**)
+- Miner violation alarm system based on skeleton information (registration number: 2022SR0574278, **ranking first**)
+- Video-based management system for mining personnel violations (registration number: 2022SR0574274, **ranking first**)
+- Human skeleton feature extraction software based on OpenPose (registration number: 2022SR0574113, **ranked second**)
 
 # 🎖 Honors and Awards
 
