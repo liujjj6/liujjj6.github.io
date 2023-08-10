@@ -34,3 +34,8 @@ My primary research interests include **federated learning**, **dataset distilla
 # 📖 Educations
 - *2023.06 - 2023.08 (now)*, Postgraduate, Group of Networked Sensing and Control, Zhejiang University, Hangzhou.
 - *2019.09 - 2023.06*, Undergraduate, China University of Mining and Technology , Xuzhou.
+
+# 👨‍💼  Internships
+
+- *2022.07 - 2023.03*, [Communist Youth League CUMT Committee](https://youth.cumt.edu.cn/) , Part-time Deputy Secretary (Student), Xuzhou.
+- *2022.01 - 2023.01*, Student Workstation of CPC in CUMT, Chairman, Xuzhou.
