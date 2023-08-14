@@ -39,25 +39,25 @@ My primary research interests include **federated learning**, **dataset distilla
 
 ## ⚙️Patents
 
-- [A mine personnel violation action recognition system based on structural federated learning](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs7gabnYmmc3b2wHbXiJ3ADW5kCIIe5IQ-DpStkFfVLl6&uniplatform=NZKPT) (**invention patent**, patent number: 202210393664.3, **second student work**, substantive review)
-- [A method for identifying illegal actions of mine personnel based on structural federated learning](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs7gabnYmmc3br3Pj3yFFwY7Kze5GWPDZi9mRqFPE8rNk&uniplatform=NZKPT) (**invention patent**, patent number: 202210393676.6, three works by students, substantive review)
-- [A fast self-constructed behavior pattern recognition system](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs0fGUHLxXHgrP-JGNT4q458wEsLfxilqsfAbtPKIUIIb&uniplatform=NZKPT) (**invention patent**, patent number: 202210319875.2, **second student work**, substantive review)
-- [A behavior alarm system for miners picking ore trucks](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5gexuDGLL0VrgzJkxP8cFEIdQcUtpgOlj-7PQiAHL5b7wJ&uniplatform=NZKPT) (**utility model**, patent number: 202220235935.8, **ranked first**, authorized)
-- [An alarm system for miners’ illegal crossing of the belt](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs1_hFjj3BH1LtQWXQA6IIemi1fa3H_RdPmp057hcgLYO&uniplatform=NZKPT) (**utility model**, patent number: 202220235933.9, **ranking first**, under review)
-- [An underground multifunctional safety inspection system](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge1y4aUsLlrgzrLLsUdvN-3ta44E3Wwn97gtyJHoOnnrV&uniplatform=NZKPT) (**utility model**, patent number: 202220235933.8, **ranking first**, under review)
-- [A multi-dimensional adjustable miner violation monitoring device](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge9wTfUEwF57MZaV-N4YTX_w8o2gK9-jIgWuk5D9GinvJ&uniplatform=NZKPT) (**utility model**, patent number: 202220635933.4, ranked second, pending review)
-- [A Vehicle Trajectory Prediction Method Combining Checkpoint Importance and Attention Mechanism](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge-YG-IgW11ObK21HalBU8NxBgCItOhaKk4CsRudI0HqB&uniplatform=NZKPT) (**invention patent**, patent number: 202210314126.0, three student works, substantive review)
-- [A traffic checkpoint importance sorting method based on embedded word vectors and PageRank algorithm](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RGd-cziUKthiG58Ca_oSsoZVe4tIbrMm-EK3oM6ybVzS&uniplatform=NZKPT) (**invention patent**, patent number: 202211548955.1, four works by students, substantive review)
+- 代伟，建中华，**刘广义**，南静. 一种基于构造式联邦学习的矿井人员违规动作识别系统（发明专利，专利号：202210393664.3，实质审查）
+- 代伟，建中华，张瑞，**刘广义**. 一种基于构造式联邦学习的矿井人员违规动作识别方法（发明专利，专利号：202210393676.6，实质审查）
+- 代伟，南静，**刘广义**，建中华. 一种快速自构建行为模态识别系统（发明专利，专利号: 202210319875.2，实质审查）
+- **刘广义**，关乐晨，吴天泽，林星宇. 一种矿工扒矿车行为报警系统（实用新型，专利号: 202220235935.8，授权）
+- **刘广义**，杨潇，吴天泽，林星宇. 一种矿工违规跨越皮带行为报警系统（实用新型，专利号: 202220235933.9，授权）
+- **刘广义**，林星宇，吴天泽，关乐晨. 一种井下多功能安全巡检系统（实用新型，专利号: 202220235933.8，授权）
+- **吴天泽**，刘广义，林星宇，杨潇. 一种多维度可调矿工违规行为监控设备（实用新型，专利号: 202220635933.4，授权）
+- 关乐晨，邵虎，**刘广义**，陈子龙. 一种融合卡口重要性与注意力机制的车辆轨迹预测方法（发明专利，专利号: 202210314126.0，实质审查）
+- 关乐晨，邵虎，石景天，**刘广义**. 一种基于嵌入词向量与PageRank算法的交通卡口重要性排序方法（发明专利，专利号: 202211548955.1，实质审查）
 
 ## 💻Software copyright
 
-- Human behavior modal feature extraction software (registration number: 2022SR0574542, **ranking first**)
-- Human behavior model data preprocessing software (registration number: 2022SR0574351, **ranked first**)
-- Human behavior modal algorithm analysis platform based on random configuration network (registration number: 2022SR0574275, **ranking second**)
-- Fast human behavior pattern recognition software based on incremental learning (registration number: 2022SR0574257, **ranked second**).
-- Miner violation alarm system based on skeleton information (registration number: 2022SR0574278, **ranking first**)
-- Video-based management system for mining personnel violations (registration number: 2022SR0574274, **ranking first**)
-- Human skeleton feature extraction software based on OpenPose (registration number: 2022SR0574113, **ranked second**)
+- **刘广义**，建中华. 人体行为模态特征提取软件（登记号：2022SR0574542）
+- **刘广义**，南静. 人体行为模态数据预处理软件（登记号：2022SR0574351）
+- 刘洋，**刘广义**. 基于随机配置网络的人体行为模态算法分析平台（登记号：2022SR0574275）
+- 南静，**刘广义**. 基于增量学习的快速人体行为模态识别软件（登记号：2022SR0574257）
+- **刘广义**，建中华. 基于骨架信息的矿工违规行为报警系统 （登记号：2022SR0574278）
+- **刘广义**，建中华. 基于视频的矿区作业人员违规行为管理系统（登记号：2022SR0574274）
+- 建中华，**刘广义**. 基于OpenPose的人体骨架特征提取软件（登记号：2022SR0574113）
 
 # 🎖 Honors and Awards
 
