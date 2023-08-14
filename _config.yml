@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guangyi Liu(刘广义)"
-description              : "Zhejiang University"
+description              : #""
 repository               : "lgy0404/lgy0404.github.io"
 google_scholar_stats_use_cdn : false  #true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guangyi Liu"
   avatar           : "images/刘广义.png"
-  bio              : "Postgraduate"
+  bio              : "M.E. candidate at ZJU"
   location         : "Hangzhou, China"
   employer         : #"https://blog.csdn.net/m0_49637401?type=blog"
   pubmed           : #"https://blog.csdn.net/m0_49637401?type=blog"
