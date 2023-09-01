@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Guangyi Liu (刘广义)**, a M.E. candidate at the [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Wenchao Meng](https://person.zju.edu.cn/wmeng). I received my B.S. degree with honors in Automation from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2023, advised by Prof. [Wei Dai](http://faculty.cumt.edu.cn/DaiW/zh_CN/index/175772/list/index.htm).
+<br>
 
-My primary research interests include **federated learning**, **dataset distillation** and their intersections. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn]( guangyiliu@zju.edu.cn) 😃
+🔬 I am **Guangyi Liu (刘广义)**, a M.E. candidate at the [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Wenchao Meng](https://person.zju.edu.cn/wmeng). 
+
+🎓 I received my B.S. degree in Automation from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2023, advised by Prof. [Wei Dai](http://faculty.cumt.edu.cn/DaiW/zh_CN/index/175772/list/index.htm).
+
+📚 My primary research interests include **federated learning**, **dataset distillation** and their intersections. 
+
+💬 If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn]( guangyiliu@zju.edu.cn) 😃
 
 🏷️Download my [CV-zh](./刘广义个人简历.pdf).
 
