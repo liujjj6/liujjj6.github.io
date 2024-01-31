@@ -21,7 +21,7 @@ redirect_from:
 
  I am **Guangyi Liu (刘广义)**, a M.E. candidate at the [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Wenchao Meng](https://person.zju.edu.cn/wmeng).  I received my B.S. degree in Automation from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2023, advised by Prof. [Wei Dai](http://faculty.cumt.edu.cn/DaiW/zh_CN/index/175772/list/index.htm).
 
- My primary research interest is **FPGA based CNN Accelerator**. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn]( guangyiliu@zju.edu.cn) 😃
+ My primary research interest is **federated learning**, **dataset distillation** and their intersections. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn]( guangyiliu@zju.edu.cn) 😃
 
 # 🔥 News
 
@@ -62,6 +62,7 @@ redirect_from:
 
 # 🎖 Honors and Awards
 
+- *2024.01*: [The 9th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition](https://cy.ncss.cn/information/2c93f4c68a5f8efa018d4398986f00da), Silver award
 - *2023.11*: [2023 "Huawei Cup" China Graduate Student Mathematical Contest in Modeling second prize](https://cpipc.acge.org.cn//cw/detail/4/2c9080158aee323f018c0b4b1fdf71ff), Second Prize
 - *2023.05*: ["Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students  in Jiangsu Province](https://baijiahao.baidu.com/s?id=1766962643597869398&wfr=spider&for=pc), Second Prize
 - *2022.12:* [China International College Students’ “Internet+” Innovation and Entrepreneurship Competition in Jiangsu Province](http://jyt.jiangsu.gov.cn/art/2022/12/30/art_58320_10715973.html), Second Prize
