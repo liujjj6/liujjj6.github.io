@@ -63,6 +63,7 @@ redirect_from:
 
 # 🎖 Honors and Awards
 
+- *2023.11*: [2023 "Huawei Cup" China Graduate Student Mathematical Contest in Modeling second prize](https://cpipc.acge.org.cn//cw/detail/4/2c9080158aee323f018c0b4b1fdf71ff), Second Prize
 - *2023.05*: ["Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students  in Jiangsu Province](https://baijiahao.baidu.com/s?id=1766962643597869398&wfr=spider&for=pc), Second Prize
 - *2022.12:* [China International College Students’ “Internet+” Innovation and Entrepreneurship Competition in Jiangsu Province](http://jyt.jiangsu.gov.cn/art/2022/12/30/art_58320_10715973.html), Second Prize
 - *2022.09:* [Xiaomi Special Scholarship](https://siee.cumt.edu.cn/info/1078/3889.htm)*(10 students in the whole school)*
