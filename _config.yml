@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guangyi Liu(刘广义)"
+title                    : "Jun Liu(刘俊)"
 description              : ""
-repository               : "lgy0404/lgy0404.github.io"
+repository               : "liujjj6/liujjj6.github.io"
 google_scholar_stats_use_cdn : false  #true
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guangyi Liu"
+  name             : "Jun Liu"
   avatar           : "images/刘广义.png"
-  bio              : "M.E. candidate at ZJU"
-  location         : "Hangzhou, China"
+  bio              : "A junior at CUMT"
+  location         : "Xuzhou, China"
   employer         : #"https://blog.csdn.net/m0_49637401?type=blog"
   pubmed           : #"https://blog.csdn.net/m0_49637401?type=blog"
   googlescholar    : #"https://blog.csdn.net/m0_49637401?type=blog"
   email            : #"https://blog.csdn.net/m0_49637401?type=blog"
   researchgate     : #"https://blog.csdn.net/m0_49637401?type=blog"
-  uri              : "https://blog.csdn.net/m0_49637401?type=blog"
+  # uri              : "https://blog.csdn.net/m0_49637401?type=blog"
   bitbucket        : #"https://blog.csdn.net/m0_49637401?type=blog"
   codepen          : #"https://blog.csdn.net/m0_49637401?type=blog"
   dribbble         : #"https://blog.csdn.net/m0_49637401?type=blog"
   flickr           : #"https://blog.csdn.net/m0_49637401?type=blog"
   facebook         : #"https://blog.csdn.net/m0_49637401?type=blog"
   foursquare       : #"https://blog.csdn.net/m0_49637401?type=blog"
-  github           : "lgy0404"
+  github           : "liujjj6"
   google_plus      : #"https://blog.csdn.net/m0_49637401?type=blog"
   keybase          : #"https://blog.csdn.net/m0_49637401?type=blog"
   instagram        : #"https://blog.csdn.net/m0_49637401?type=blog"
