@@ -25,6 +25,8 @@ redirect_from:
 
 具体的个人情况请看[个人简历]()
 
+<span class='anchor' id='publications'></span>
+<br>
 # Publications
 
 ## 1. Deep transfer learning based on residual network fusing spatial and channel dual attention mechanism for recognizing spatter degree of converter
