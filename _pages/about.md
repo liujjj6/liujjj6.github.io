@@ -25,7 +25,7 @@ redirect_from:
 
 具体的个人情况请看[个人简历]()
 
-# 科研成果
+# Publications
 
 ## 1. Deep transfer learning based on residual network fusing spatial and channel dual attention mechanism for recognizing spatter degree of converter
 
