@@ -23,7 +23,7 @@ redirect_from:
 
 我目前的研究兴趣包括深度学习和机器学习，并且在图像分类以及时间序列预测方向进行了一些尝试....
 
-具体的个人情况请看[个人简历](CV/个人简历模板_latex.pdf)
+具体的个人情况请看[个人简历](../CV/个人简历模板_latex.pdf)
 
 <span class='anchor' id='publications'></span>
 <br>
