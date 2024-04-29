@@ -19,40 +19,56 @@ redirect_from:
 
 <br>
 
-你好，我叫刘俊，是一名来自中国矿业大学信息与控制工程学院的大三学生，现攻读人工智能专业。
+ I am **Guangyi Liu (刘广义)**, a M.E. candidate at the [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Wenchao Meng](https://person.zju.edu.cn/wmeng).  I received my B.S. degree in Automation from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2023, advised by Prof. [Wei Dai](http://faculty.cumt.edu.cn/DaiW/zh_CN/index/175772/list/index.htm).
 
-我目前的研究兴趣包括深度学习和机器学习，并且在图像分类以及时间序列预测方向进行了一些尝试....
+ My primary research interest is large language model based agents. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn]( guangyiliu@zju.edu.cn) 😃
 
-具体的个人情况请看[个人简历]()
+# 📝 Publications
 
-# 科研成果
+## ⚙️Patents
 
-## 1. Deep transfer learning based on residual network fusing spatial and channel dual attention mechanism for recognizing spatter degree of converter
+- 代伟，建中华，**刘广义**，南静. 一种基于构造式联邦学习的矿井人员违规动作识别系统（发明专利，专利号：202210393664.3，实质审查）
+- 代伟，建中华，张瑞，**刘广义**. 一种基于构造式联邦学习的矿井人员违规动作识别方法（发明专利，专利号：202210393676.6，实质审查）
+- 代伟，南静，**刘广义**，建中华. 一种快速自构建行为模态识别系统（发明专利，专利号: 202210319875.2，实质审查）
+- **刘广义**，关乐晨，吴天泽，林星宇. 一种矿工扒矿车行为报警系统（实用新型，专利号: 202220235935.8，授权）
+- **刘广义**，杨潇，吴天泽，林星宇. 一种矿工违规跨越皮带行为报警系统（实用新型，专利号: 202220235933.9，授权）
+- **刘广义**，林星宇，吴天泽，关乐晨. 一种井下多功能安全巡检系统（实用新型，专利号: 202220235933.8，授权）
+- **吴天泽**，刘广义，林星宇，杨潇. 一种多维度可调矿工违规行为监控设备（实用新型，专利号: 202220635933.4，授权）
+- 关乐晨，邵虎，**刘广义**，陈子龙. 一种融合卡口重要性与注意力机制的车辆轨迹预测方法（发明专利，专利号: 202210314126.0，实质审查）
+- 关乐晨，邵虎，石景天，**刘广义**. 一种基于嵌入词向量与PageRank算法的交通卡口重要性排序方法（发明专利，专利号: 202211548955.1，实质审查）
 
-- 状态：在投；申请了名为《一种迁移学习和双重注意力机制残差网络的转炉喷溅识别方法》的国家发明专利一项\(学生一作，已受理)。
-- 个人贡献：学生一作，主要负责识别算法的设计和实现以及论文的撰写。
-- 描述：基于迁移学习技术提出了一种融合双重注意力机制}的残差神经网络以实现高精度转炉火焰喷溅程度自动识别。
+## 💻Software copyright
 
-## 2. Multivariable system prediction based on TCN-LSTM networks with self-attention mechanism and LASSO variable selection
+- **刘广义**，建中华. 人体行为模态特征提取软件（登记号：2022SR0574542）
+- **刘广义**，南静. 人体行为模态数据预处理软件（登记号：2022SR0574351）
+- 刘洋，**刘广义**. 基于随机配置网络的人体行为模态算法分析平台（登记号：2022SR0574275）
+- 南静，**刘广义**. 基于增量学习的快速人体行为模态识别软件（登记号：2022SR0574257）
+- **刘广义**，建中华. 基于骨架信息的矿工违规行为报警系统 （登记号：2022SR0574278）
+- **刘广义**，建中华. 基于视频的矿区作业人员违规行为管理系统（登记号：2022SR0574274）
+- 建中华，**刘广义**. 基于OpenPose的人体骨架特征提取软件（登记号：2022SR0574113）
 
-- 状态：发表于ACS omega，IF:4.1，JCR 二区；[详情](https://pubs.acs.org/doi/full/10.1021/acsomega.3c06263)
-- 个人贡献：学生二作，主要负责预测算法的实现和调优。
-- 描述：通过利用LASSO 算法对输入变量进行主元分析，设计了融合多头注意力机制的 TCN-LSTM网络，实现对多变量特征序列进行预测。
+# 🎖 Honors and Awards
 
-## 3. Investigation of flexible graphene hybrid knitted sensor for posture recognition based on CNN-LSTM network
+- *2024.01*: [The 9th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition](https://cy.ncss.cn/information/2c93f4c68a5f8efa018d4398986f00da), Silver award
+- *2023.11*: [2023 "Huawei Cup" China Graduate Student Mathematical Contest in Modeling second prize](https://cpipc.acge.org.cn//cw/detail/4/2c9080158aee323f018c0b4b1fdf71ff), Second Prize
+- *2023.05*: ["Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students  in Jiangsu Province](https://baijiahao.baidu.com/s?id=1766962643597869398&wfr=spider&for=pc), Second Prize
+- *2022.12:* [China International College Students’ “Internet+” Innovation and Entrepreneurship Competition in Jiangsu Province](http://jyt.jiangsu.gov.cn/art/2022/12/30/art_58320_10715973.html), Second Prize
+- *2022.09:* [Xiaomi Special Scholarship](https://siee.cumt.edu.cn/info/1078/3889.htm)*(10 students in the whole school)*
+- *2022.07:* [National Competition of Transport Science and Technology for Students](http://www.nactrans.com.cn/detail/2156), Second Prize
+- *2022.06:* [China Telecom Scholarship](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%A5%96%E5%AD%A6%E9%87%91/17274030?fr=ge_ala), Flyyoung Award*(1 students in the whole school)*
+- *2022.06:* Outstanding Student CPC Member of CUMT
+- *2021.12:* Undergraduate National Scholarship*(Top 1%)*
+- *2021.05:* [Interdisciplinary Contest In Modeling,](https://www.comap.com/) H Prize*(Top 30%)*
+- *2021.05:* [18th May Day Mathematical Modeling Competition](https://51mcm.cumt.edu.cn/30/73/c14055a602227/page.psp), First Prize*(Top 4%)*
+- *2020.12:* Undergraduate National Scholarship*(Top 1%)*
 
-- 状态：发表于Journal of Industrial Textiles，IF:3.2，JCR 二区；[详情](https://journals.sagepub.com/doi/full/10.1177/15280837231225827)
-- 个人贡献：学生二作，主要负责识别算法的设计和实现以及部分论文的撰写。
-- 描述：针对柔性可穿戴传感织物的人体姿势关节变化信号，提出了一种融合自注意力机制的多层CNN-LSTM神经网络智能识别策略。
+# 📖 Educations
 
-## 4. LGD-LSTM network with VMD for prediction  nonlinear system subject to input noise
+- *2023.06 - 2026.03*, Postgraduate, Group of Networked Sensing and Control, Zhejiang University, Hangzhou.
+- *2019.09 - 2023.06*, Undergraduate, China University of Mining and Technology , Xuzhou.
 
-- 状态：被2024年中国控制与决策会议(CCDC)录用
-- 个人贡献：第一作者，主要负责预测算法的设计和实现以及论文的撰写。
-- 描述：提出了一种基于带有变分模态分解（VMD）降噪的LGD-LSTM网络用于预测带有输入噪声的非线性系统。VMD技术有效的去除了输入信号的噪声；LGD(Local and Global Diffusion)提高了网络对特征的提取能力；LSTM网络提取了时间序列中的长期依赖关系。
-
-## 5. Multivariable system prediction based on parallel GRU-LSTM neural network
-
-- 状态：被2023年中国自动化会议(CAC)录用,已被收录 IEEE 数据库；[详情](https://ieeexplore.ieee.org/abstract/document/10452106)
-- 个人贡献：学生一作，主要负责预测算法的设计和实现以及论文的撰写。
-- 描述：针对复杂的多输入/输出系统，提出了一种具有\textbf{自注意力机制}的\textbf{并行GRU-LSTM神经网络}预测策略。对两条支路分配不同的权重，使网络能兼顾 LSTM 和 GRU 两种模型的优点，提高了神经网络在处理序列数据时的效果。
+# 👨‍💼 Internships
+- *2023.10 - 2024.10*, Graduate and Doctoral Student Union of School of Control Science and Engineering at Zhejiang University, Chairman, Hangzhou.
+- *2023.07 - 2023.09*, [imotorlinx](https://www.imotorlinx.com/), Algorithm engineer, Hangzhou.
+- *2022.07 - 2023.03*, [Communist Youth League CUMT Committee](https://youth.cumt.edu.cn/) , Part-time Deputy Secretary (Student), Xuzhou.
+- *2022.01 - 2023.01*, [Student Workstation of CPC in CUMT](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%85%9A%E5%91%98%E5%B7%A5%E4%BD%9C%E7%AB%99%E6%80%BB%E7%AB%99/4843975?fr=ge_ala), Chairman, Xuzhou.
